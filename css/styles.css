@@ -97,7 +97,15 @@ button {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-
+.benef-text{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+.team-lead-list{
+    background-color: #FFFFFF;
+}
 .team-item{
     font-weight: 700;
     font-size: 36px;
@@ -128,10 +136,11 @@ button {
 .port-item{
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.1;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+    text-transform: capitalize;
 }
 .port-ins{
     font-weight: 500;
